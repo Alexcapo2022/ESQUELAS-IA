@@ -5,3 +5,4 @@ python-dotenv
 pydantic>=2
 gunicorn
 PyMuPDF
+python-multipart
