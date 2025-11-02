@@ -1,7 +1,6 @@
 import json
 from fastapi import HTTPException
 from fastapi.responses import JSONResponse
-from . import __init__  # noqa: F401
 from app.config.settings import client, OPENAI_MODEL
 from app.utils.media_utils import bytes_to_data_url, pdf_to_data_urls, build_message_content
 
