@@ -1,4 +1,4 @@
-```markdown
+
 # 🧠 Extracción de Esquelas SUNARP (IA)
 
 Proyecto **FastAPI + OpenAI Vision** para extraer automáticamente datos estructurados (JSON) desde **imágenes o PDFs** de *Esquelas de Liquidación* de SUNARP.
@@ -15,7 +15,7 @@ Proyecto **FastAPI + OpenAI Vision** para extraer automáticamente datos estruct
 ---
 
 ## 🗂️ Estructura del proyecto
-```
+
 
 app/
 ├─ main.py
